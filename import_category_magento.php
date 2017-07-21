@@ -1,6 +1,6 @@
 <?php
 /*
- * Author name: Shourya Chowdhury
+ * Author name: Aditya Agarwal
  *
  * Description: Import All The Categroies From The Old Site To The New Site
  */
